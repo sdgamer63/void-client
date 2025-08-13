@@ -1,1 +1,121 @@
+{
+  "notenoughupdates": {
+    "name": "NotEnoughUpdates",
+    "version": "2.6.0",
+    "file": "NotEnoughUpdates-2.6.0.jar",
+    "url": "https://cdn.modrinth.com/data/GGamhqbw/versions/MvBjbVpC/NotEnoughUpdates-2.6.0.jar",
+    "required": true,
+    "mcVersion": "1.8.9",
+    "note": "Official Modrinth CDN link."
+  },
 
+  "secretroutes": {
+    "name": "Secret Routes Mod",
+    "version": "0.4.15",
+    "file": "SecretRoutes-0.4.15.jar",
+    "url": "https://cdn.modrinth.com/data/l1qibtk8/versions/XSMwL6uI/SecretRoutes-0.4.15.jar",
+    "required": true,
+    "mcVersion": "1.8.9",
+    "note": "Forge 1.8.9 routes waypoints."
+  },
+
+  "skyhanni": {
+    "name": "SkyHanni",
+    "version": "3.17.0",
+    "file": "SkyHanni-1.8.9-forge-3.17.0.jar",
+    "url": "https://modrinth.com/mod/skyhanni/version/3.17.0",
+    "required": false,
+    "mcVersion": "1.8.9",
+    "note": "Use the version page above and swap in the Modrinth CDN link if you want auto-download."
+  },
+
+  "skytills": {
+    "name": "Skytils",
+    "version": "1.11.0",
+    "file": "Skytils-1.11.0-forge-1.8.9.jar",
+    "url": "https://github.com/Skytils/SkytilsMod/releases/tag/v1.11.0",
+    "required": false,
+    "mcVersion": "1.8.9",
+    "note": "Replace with a direct asset link (GitHub release asset) if you want auto-download."
+  },
+
+  "dulkirmod": {
+    "name": "DulkirMod",
+    "version": "1.2.9",
+    "file": "DulkirMod-1.2.9.jar",
+    "url": "https://github.com/inglettronald/DulkirMod/releases/tag/1.2.9",
+    "required": false,
+    "mcVersion": "1.8.9",
+    "note": "Latest is 1.2.9; replace with the direct .jar asset URL if you want auto-download."
+  },
+
+  "watersolver": {
+    "name": "WaterSolver",
+    "version": "1.1.3",
+    "file": "WaterSolver-1.1.3.jar",
+    "url": "https://github.com/Desco20/WaterSolver/releases",
+    "required": false,
+    "mcVersion": "1.8.9",
+    "note": "Stand-alone water board solver. Swap in the specific .jar asset link if desired."
+  },
+
+  "ctjs": {
+    "name": "ChatTriggers (ct.js)",
+    "version": "2.x",
+    "file": "ctjs-2.x-1.8.9.jar",
+    "url": "https://www.chattriggers.com/",
+    "required": false,
+    "mcVersion": "1.8.9",
+    "note": "Install from the official site; provide direct .jar if you want the launcher to fetch it."
+  },
+
+  "patcher": {
+    "name": "Patcher",
+    "version": "1.8.9-latest",
+    "file": "Patcher-1.8.9.jar",
+    "url": "https://sk1er.club/mods/patcher",
+    "required": false,
+    "mcVersion": "1.8.9",
+    "note": "Official Sk1er/Essential page. Patcher is great with 1.8.9; add direct CDN link if available."
+  },
+
+  "optifine": {
+    "name": "OptiFine",
+    "version": "HD_U_M5 (1.8.9)",
+    "file": "OptiFine_1.8.9_HD_U_M5.jar",
+    "url": "https://optifine.net/downloads",
+    "required": false,
+    "mcVersion": "1.8.9",
+    "note": "OptiFine uses an ad-gated dynamic URL; you generally can’t script a stable direct link."
+  },
+
+  "skyblockextras": {
+    "name": "SkyBlock Extras (SBE)",
+    "version": "paid",
+    "file": "SBE-1.8.9.jar",
+    "url": "https://skyblockextras.org",
+    "required": false,
+    "mcVersion": "1.8.9",
+    "note": "Paid/licensed. Do not auto-download or redistribute. Add your personal download URL after purchase."
+  },
+
+  "odin": {
+    "name": "Odin",
+    "version": "latest",
+    "file": "Odin-1.8.9.jar",
+    "url": "https://github.com/odtheking/Odin/releases",
+    "required": false,
+    "mcVersion": "1.8.9",
+    "note": "General SkyBlock QoL. Replace with a specific release asset link for auto-download."
+  },
+
+  "cofmod": {
+    "name": "cofmod",
+    "version": "unknown",
+    "file": "cofmod-1.8.9.jar",
+    "url": "",
+    "required": false,
+    "mcVersion": "1.8.9",
+    "note": "I couldn’t confidently identify this. If you meant a specific mod (e.g., COFL-related), share its repo/link."
+  }
+}
